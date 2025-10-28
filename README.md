@@ -1,1 +1,1 @@
-Aplicação para testest no Git
+Aplicação para testes no Git
